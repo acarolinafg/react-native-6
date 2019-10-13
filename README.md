@@ -26,7 +26,7 @@ Dentro da pasta src/screens, você encontrará a estrutura básica do teste. Sua
     - os tipos do pokemon que deve conter a classe `pokemon-type` para cada tipo,
 
 ### Exemplo
-![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-native-6/react-native-6.webm)
+[https://codenation-challenges.s3-us-west-1.amazonaws.com/react-native-6/react-native-6.webm](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-native-6/react-native-6.webm)
 
 ## Rodando a aplicação
 Na primeira execução rodar o comando:
